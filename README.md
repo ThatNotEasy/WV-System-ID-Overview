@@ -18,7 +18,7 @@ This project supports **researchers, developers, and security analysts** by:
 ## 📌 Project Status
 
 - ✅ **Inspire By** — [Originally created over 3 years ago](https://github.com/Cronick/WV-System-ID-Overview)
-- 🚀 **Now Maintained & Evolving** — The repo has been revived with new contributions, a structured format, and support for more devices
+- 🚀 **Now Maintained & Evolving** — The repo has been revived with new contributions, a structured format, and has been adding for more devices
 
 ---
 
